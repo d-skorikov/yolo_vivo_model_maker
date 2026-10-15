@@ -1,0 +1,21 @@
+{
+  "mode": "full",
+  "zip": "C:/Users/dskor/Documents/project/Claude_project/yolo_vivo_model_maker/dataset.zip",
+  "dataset_dir": "",
+  "train_pct": 0.8,
+  "seed": 42,
+  "names": "",
+  "model": "yolo11n.pt",
+  "epochs": 10,
+  "imgsz": 256,
+  "batch": 8,
+  "device": "авто",
+  "workers": 8,
+  "patience": 100,
+  "output_dir": "C:/Users/dskor/Documents/project/Claude_project/yolo_vivo_model_maker",
+  "name": "train",
+  "exist_ok": false,
+  "openvino": true,
+  "ov_precision": "fp16",
+  "export_model": ""
+}
